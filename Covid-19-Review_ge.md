@@ -1,8 +1,24 @@
 # Covid-19. Ein Review.
 
-## 15. März 2020
+## Dezember 2019
 
-Der erste Lockdown wird verordnet, Start 16. März. Ein harter Lockdown. Die Regierung stellt ca. 2 Wochen in Aussicht.
+Man hört erste Nachrichte über den Virus aus China
+
+## Februar 2020
+
+In Asien schließen die Häfen für Kreuzfahrtschiffe.
+
+Mitte Februar dürfen keine Flugzeuge aus China mehr in Wien landen.
+
+## März 2020
+
+### 15. März
+
+Der erste Lockdown wird verordnet.
+
+### 16. März
+
+Erster harter Lockdown. Die Regierung stellt ca. 2 Wochen in Aussicht.
 
 Meine Frau und ich diskutieren, dass es sich bei einem Infektionsgeschehen um ein exponentielles Wachstum handelt. Somit werden die Zahlen steigen, solange der Reproduktionsfaktor über 1 liegt.
 
@@ -18,6 +34,24 @@ ab 17.04 : Arztbesuche möglich
 ab 01.05 : körpernahe Dienste und Geschäfte ab 400m2 mit Abstandsregeln
 ab 29.05 : "nur" noch nächtliche Ausgangssperre
 
+## April 2020
+
+### 17. April
+
+Der für 2 Wochen angekündigte erste Lockdown dauert schon 4 Wochen. Arztbesuche werden wieder erlaubt.
+
+## Mai 2020
+
+### 1. Mai
+
+6 Wochen Lockdown. Körpernahe Dienste werden wieder geöffnet, ebenso Geschäfte mit über 400m2 Geschäftsfläche. Abstandsregeln müssen eingehalten werden.
+
+### 29. Mai
+
+Alle Einschränkunen bis auf die nächtliche Ausgangssperre werden aufgehoben.
+
+Der für 2 Wochen angekündigte Lockdown hat letztendlich inklusive "Ausschwingphase" 10 Wochen gedauert. Die Infektionszahlen sind "fast" wieder "normal".
+
 ## Sommer 2020
 
 Fast alle Beschränkungen sind aufgehoben, auch die Maskenpflicht (damals noch MNS). Menschen fahren auf Urlaub, zT in Länder mit wesentlich höherem Infektionsstand.
@@ -28,16 +62,27 @@ Im Oktober prophezeihe ich meinen Arbeitskollegen, *dass der nächste Lockdown i
 
 ## November 2020
 
-* **17.11. - 8.12. : Neuer Lockdown (light)**
-* **ab 8.12. Öffnung der Geschäfte für Weihnachstgeschäft**
+### 17. November
+
+Ein "Lockdown light" wird angeordnet.
 
 Meine Frau und ich prophezeihen: *Wenn vor Weihnachten geöffnet wird, wird nach Weihnachten alles wieder geschlossen und es wird frühestens im März wieder geöffnet.*
 
 ## Dezember 2020
 
-* **Ausnahmeregelung für die Weihnachtsfeiertage : Treffen bis zu 8 Personen + 6 Kinder
+### 8. Dezember
 
-Nach Weihnachten, ab 26.12., wird wieder geschlossen. 3. Lockdown (hart).
+Geeschäfte dürfen wieder öffnen, damit das Weihnachtsgeschäft laufen kann.
+
+Wie sich später herausstellt, haben viele ihre Weihnachtseinkäufe bereits online erledigt. Das gesundheitlich riskante Weihnachtsgeschäft bleibt unter den Erwartungen.
+
+### 24. Dezember
+
+Ausnahmeregelung für die Weihnachtsfeiertage : Treffen bis zu 8 Personen + 6 Kinder
+
+### 26. Dezember
+
+Dritte Lockdown (hart) tritt in Kraft.
 
 ## Februar/März 2021
 
