@@ -24,16 +24,6 @@ Meine Frau und ich diskutieren, dass es sich bei einem Infektionsgeschehen um ei
 
 *Wir schätzen, dass der Lockdown eher 6-8 Wochen dauern wird.*
 
-* **Tatsächliche Dauer des harten Lockdowns: 6 Wochen**
-* **Weitere 4 Wochen (bis Ende Mai) "sanfter" Lockdown**
-* **Ergebnis des harten Lockdowns: Die Zahlen sind drastisch gesunken**
-* **der Rückgang war allerdings erst nach 2 Wochen spürbar**
-
-16.03. - 13.04 : harter Lockdown
-ab 17.04 : Arztbesuche möglich
-ab 01.05 : körpernahe Dienste und Geschäfte ab 400m2 mit Abstandsregeln
-ab 29.05 : "nur" noch nächtliche Ausgangssperre
-
 ## April 2020
 
 ### 17. April
@@ -50,13 +40,16 @@ Der für 2 Wochen angekündigte erste Lockdown dauert schon 4 Wochen. Arztbesuch
 
 Alle Einschränkunen bis auf die nächtliche Ausgangssperre werden aufgehoben.
 
-Der für 2 Wochen angekündigte Lockdown hat letztendlich inklusive "Ausschwingphase" 10 Wochen gedauert. Die Infektionszahlen sind "fast" wieder "normal".
+Der für 2 Wochen angekündigte Lockdown hat letztendlich inklusive "Ausschwingphase" 10 Wochen gedauert:
+
+* **Die Zahlen sind drastisch gesunken**
+* **der Rückgang war allerdings erst nach 2 Wochen spürbar**
 
 ## Sommer 2020
 
 Fast alle Beschränkungen sind aufgehoben, auch die Maskenpflicht (damals noch MNS). Menschen fahren auf Urlaub, zT in Länder mit wesentlich höherem Infektionsstand.
 
-Seitens Regierung hört man noch nicht von neuen Maßnahmen.
+Die Zahlen steigen wieder, aber seitens der Regierung hört man noch nicht von neuen Maßnahmen.
 
 Im Oktober prophezeihe ich meinen Arbeitskollegen, *dass der nächste Lockdown im November kommen wird.*
 
