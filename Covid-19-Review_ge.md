@@ -1,4 +1,4 @@
-# Covid-19. Ein Review.
+# Covid-19 in Österreich. Ein Review.
 
 ## Dezember 2019
 
@@ -65,7 +65,7 @@ Meine Frau und ich prophezeihen: *Wenn vor Weihnachten geöffnet wird, wird nach
 
 ### 8. Dezember
 
-Geeschäfte dürfen wieder öffnen, damit das Weihnachtsgeschäft laufen kann.
+Geschäfte dürfen wieder öffnen, damit das Weihnachtsgeschäft laufen kann.
 
 Wie sich später herausstellt, haben viele ihre Weihnachtseinkäufe bereits online erledigt. Das gesundheitlich riskante Weihnachtsgeschäft bleibt unter den Erwartungen.
 
@@ -85,7 +85,7 @@ Die Geschäfte werden wieder geöffnet, aber mit "Freitesten". Die infektiösere
 
 * **Die Menschen gehen in Massen testen, weil es die einzige Möglichkeit ist, bestimmte Services in Anspruch zu nehmen.**
 * **Weil jetzt viele Leute testen gehen, steigen die Infektionszahlen in der Statistik drastisch an. Man sieht zum ersten Mal "realistische" Zahlen.**
-* **Der Reproduktionsfaktor sinkt während des Lockdowns nur sehr langsam. Das sowohl an der höheren Infektiösität des neuen Viruses als auch an der hohen Testrate liegen. Letzteres würde erklären, warum bei früheren Lockdowns immer noch steigende Infektionszahlen zu sehen waren, obwohl der Reproduktionsfaktor schon unter 1 lag. Die fehlenden Zahlen der Nicht-Getesteten gaben, unserer Meinung nach, ein verzerrtes Bild wieder.**
+* **Der Reproduktionsfaktor sinkt während des Lockdowns nur sehr langsam. Das kann sowohl an der höheren Infektiösität des neuen Viruses als auch an der hohen Testrate liegen. Letzteres würde erklären, warum bei früheren Lockdowns immer noch steigende Infektionszahlen zu sehen waren, obwohl der Reproduktionsfaktor schon unter 1 lag. Die fehlenden Zahlen der Nicht-Getesteten gaben, unserer Meinung nach, ein verzerrtes Bild wieder.**
 
 ## März 2021
 
@@ -103,7 +103,7 @@ Meine Frau und ich meinen, wir wissen aus der Erfahrung der letzten Monate, *das
 
 Frau Rendi-Wagner und Bgm Ludwig bestätigen unsere Ansicht nur einen Tag später in den Medien. Der Lockdown wird auf fast 2 Wochen, bis 18. April, verlängert.
 
-## 12. April 2021
+### 12. April
 
 Es läuft eine Diskussion, den Lockdown weiter zu verlängern, weil die Belegung der Intensivstationen mit Covid-19 Patienten so hoch ist. Die Patienten werden jünger und die Aufenthaltszeiten werden länger.
 
