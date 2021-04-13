@@ -12,7 +12,7 @@ Mitte Februar dürfen keine Flugzeuge aus China mehr in Wien landen.
 
 ## März 2020
 
-### 15. März
+### 15. März, Lockdown I
 
 Der erste Lockdown wird verordnet.
 
@@ -55,7 +55,7 @@ Im Oktober prophezeihe ich meinen Arbeitskollegen, *dass der nächste Lockdown i
 
 ## November 2020
 
-### 17. November
+### 17. November, Lockdown II
 
 Ein "Lockdown light" wird angeordnet.
 
@@ -73,11 +73,11 @@ Wie sich später herausstellt, haben viele ihre Weihnachtseinkäufe bereits onli
 
 Ausnahmeregelung für die Weihnachtsfeiertage : Treffen bis zu 8 Personen + 6 Kinder
 
-### 26. Dezember
+### 26. Dezember, Lockdown III
 
-Dritte Lockdown (hart) tritt in Kraft.
+Dritte Lockdown (hart) tritt in Kraft. Die Infektionszahlen sind etwa 6 mal höher als beim ersten Lockdown (der 10 Wochen gedauert hat).
 
-## Februar/März 2021
+## Februar 2021
 
 ### 8. Februar
 
@@ -87,9 +87,15 @@ Die Geschäfte werden wieder geöffnet, aber mit "Freitesten". Die infektiösere
 * **Weil jetzt viele Leute testen gehen, steigen die Infektionszahlen in der Statistik drastisch an. Man sieht zum ersten Mal "realistische" Zahlen.**
 * **Der Reproduktionsfaktor sinkt während des Lockdowns nur sehr langsam. Das sowohl an der höheren Infektiösität des neuen Viruses als auch an der hohen Testrate liegen. Letzteres würde erklären, warum bei früheren Lockdowns immer noch steigende Infektionszahlen zu sehen waren, obwohl der Reproduktionsfaktor schon unter 1 lag. Die fehlenden Zahlen der Nicht-Getesteten gaben, unserer Meinung nach, ein verzerrtes Bild wieder.**
 
+## März 2021
+
+### 6. März
+
+Hier wäre der 3. Lockdown zuende gewesen, wenn er, wie der erste, 10 Wochen gedauert hätte.
+
 ## April 2021
 
-### 1. April
+### 1. April, Lockdown IV
 
 Die Regierung verordnet regionale Maßnahmen. In der Ostregion wird eine "Osterruhe" für knapp eine Woche ausgerufen, entgegen der Empfehlung von Gesundheitsminister Anschober, der bereits für ein strengeres Vorgehen plädiert.
 
